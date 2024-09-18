@@ -1,2 +1,0 @@
-Puerta de enlace: 172.20.2018
-Puerta de enlace: 172.20.0.254
